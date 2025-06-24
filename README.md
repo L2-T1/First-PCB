@@ -2,7 +2,7 @@
 This my first PCB for learning and for the Solder activity ran by Hack Club
 
 # Description
-This project is creating a circut board that powers 2 LED's that light up and have their brightness changed by a potentiometer.
+This project is creating a circuit board that powers 2 LED's that light up and have their brightness changed by a potentiometer.
 
 # Bill of materials
 - 2x LED's
