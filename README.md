@@ -11,10 +11,11 @@ This project is creating a circuit board that powers 2 LED's that light up and h
 - 1x Rotary Potentiometer
 
 # Screenshots
-![Screenshot 2025-06-24 122825](https://github.com/user-attachments/assets/516b6d76-0352-42e7-9f7e-3a233df665c0)
-![Screenshot 2025-06-24 123006](https://github.com/user-attachments/assets/4507fb2e-c83a-497d-8235-f4d4d124e406)
-![Screenshot 2025-06-24 122932](https://github.com/user-attachments/assets/48bf88cb-c2ae-4cbb-9f2b-942f31df9abb)
-![Screenshot 2025-06-24 122911](https://github.com/user-attachments/assets/215660d9-fb70-4300-a629-573574641d62)
+![Screenshot 2025-06-26 090815](https://github.com/user-attachments/assets/e9d5a010-38ee-469f-905d-fe09ab6dd96b)
+![Screenshot 2025-06-24 123006](https://github.com/user-attachments/assets/5d29dff8-a5ce-4a83-ab1e-9a344b8e118c)
+![Screenshot 2025-06-26 091339](https://github.com/user-attachments/assets/a01aa583-375f-4d44-9026-7cf02972f6ff)
+![Screenshot 2025-06-26 091310](https://github.com/user-attachments/assets/85b2fc4f-d3d3-4fdc-9545-defb243fc1e5)
+
 
 
 Made by Elliot on Slack 
